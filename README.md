@@ -13,5 +13,6 @@ general Unifrac_dist.csv —— phylogenetic distance of 232 samples (phyloshift
 RA_2015_530S_metadata_sample_fastq_phenotype —— phenotype of samples
 
 # Notice
-I: If a file contains info that you do not need, just ignore it.
-II: please tell me your github account if you would like to download these files so that i can allow individual permission requests.
+If a file contains info that you do not need, just ignore it.
+
+Please tell me your github account if you would like to download these files so that i can allow individual permission requests.
