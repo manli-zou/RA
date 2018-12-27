@@ -1,6 +1,8 @@
 # RA
 This dataset originally contains two types of information.
+
 A: phenotypes of volunteers from whom we collect samples which we refer to as metadata
+
 B: speices profile & distance profile which we got after processing gut metagenomic reads of those samples
 
 # Explicit demo for each as follows
