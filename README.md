@@ -12,12 +12,40 @@ general Unifrac_dist.csv —— phylogenetic distance of 232 samples (phyloshift
 
 RA_2015_530S_metadata_sample_fastq_phenotype —— phenotype of samples
 
-# Notice
-If a file contains info that you do not need, just ignore it.
+# pject name: The oral and gut microbiomes are perturbed in rheumatoid arthritis and partly normalized after treatment
 
-Please tell me your github account if you would like to download these files so that i can allow individual permission requests.
+Description: RA is an autoimmune disorder affecting tens of millions of people worldwide and is associated with increased mortality owing to cardiovascular and other systemic complications. However, the etiology of RA remains elusive.
 
-Welcome comments and suggestions
+The gut microbiota is an environmental factor that influences metabolic and immune homeostasis.
+
+We carried out metagenomic shotgun sequencing and a metagenome-wide association study (MGWAS) of fecal, dental and salivary samples from a cohort of individuals with rheumatoid arthritis (RA) and healthy controls.
+
+Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+
+Usage: 
+1,based on taxonomy profiles, we usually compare the compositon of microbiome between healthy and disease-related populations; whether identify discrimitive microbiome markers or ...
+2, we can identify whether the microbiome composition can related to clinical measure or not.
+3, to see whether we can use taconomy profiles to do classifications on healhty and disease-related population
+4, could be used to stratify individuals on the basis of their response to therapy
+
+taxonomy profiles (compositional data) 
+phylogenetic profiles can be used to infer phylogenetic informations and 
+
+
+initial finding
+The 88 MLGs that contained at least 100 genes (Supplementary Fig. 3 and Supplementary Table 4) separated RA-enriched and control-enriched MLGs along the vector for RA status in canonical correspondence analysis (CCA) (Supplementary Fig. 4), confirming that they were associated mainly with RA status, rather than with other complicating factors.
+
+
+
+
+
+Contributing: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
+
+Credits: Include a section for credits in order to highlight and link to the authors of your project.
+
+License: share-like license
+
+file genetarion flowchart: 
 
 # References
 1，Zhang X, Zhang D, Jia H, et al. The oral and gut microbiomes are perturbed in rheumatoid arthritis and partly normalized after treatment[J]. Nature medicine, 2015, 21(8): 895.
@@ -26,22 +54,3 @@ Welcome comments and suggestions
 
 3，Darling A E, Jospin G, Lowe E, et al. PhyloSift: phylogenetic analysis of genomes and metagenomes[J]. PeerJ, 2014, 2: e243.
 
-READMEs generally follow one format in order to immediately orient developers to the most important aspects of your project.
-
-Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
-
-Description: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-
-Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
-
-Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
-
-Usage: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-Contributing: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
-
-Credits: Include a section for credits in order to highlight and link to the authors of your project.
-
-License: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
-
-Your README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis, outlined below.
