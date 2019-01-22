@@ -42,6 +42,10 @@ https://metagenomics-workshop.readthedocs.io/en/latest/taxonomic-classification/
 
 phylogenetic tree determines which species are more related /
 ######
+xianzai partially statistically complete for a complete biological story telling;
+
+for statistiican , they may care more about the usage of the profile to employ different distance matrics.
+
 
 
 
