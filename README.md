@@ -1,3 +1,9 @@
+# dataset characteristics
+I think this idea is gorgeous and it is just allows us to directly link a whole set of variabels to human healthy status
+with following ideas is pretty
+
+if you cannot set a story in a certian grammer, then you definetely cannot solve the problem that way
+
 # RA
 This dataset originally contains two types of information.
 
@@ -31,11 +37,19 @@ Usage:
 taxonomy profiles (compositional data) 
 phylogenetic profiles can be used to infer phylogenetic informations and 
 
+phylogenetic profiles
+https://metagenomics-workshop.readthedocs.io/en/latest/taxonomic-classification/phylosift.html
+
+phylogenetic tree determines which species are more related /
+######
+
+
 
 initial finding
 The 88 MLGs that contained at least 100 genes (Supplementary Fig. 3 and Supplementary Table 4) separated RA-enriched and control-enriched MLGs along the vector for RA status in canonical correspondence analysis (CCA) (Supplementary Fig. 4), confirming that they were associated mainly with RA status, rather than with other complicating factors.
 
-
+what can be more 
+there are still great potential of identidying different ways to utilize those 
 
 
 
