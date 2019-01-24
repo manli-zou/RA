@@ -72,3 +72,18 @@ file genetarion flowchart:
 
 3，Darling A E, Jospin G, Lowe E, et al. PhyloSift: phylogenetic analysis of genomes and metagenomes[J]. PeerJ, 2014, 2: e243.
 
+Reference for Data repository principles :
+https://www.nature.com/articles/s41564-017-0077-3 Overcoming hurdles in sharing microbiome data
+http://www.metahit.eu/index.php?id=227 metaHIT
+https://www.nature.com/sdata/policies/data-policies#repo-suggest scientific data polocies
+
+tags : biological high-dimensional data 
+possible linked methods : Mathematical Distance
+Dimension Reduction
+Singular Value Decomposition and Principal Component Analysis
+Multiple Dimensional Scaling Plots
+Factor Analysis
+Dealing with Batch Effects
+
+If you’re interested in data analysis and interpretation, then this is the data science course for you.
+
