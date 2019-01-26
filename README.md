@@ -1,15 +1,10 @@
-# dataset characteristics
-I think this idea is gorgeous and it is just allows us to directly link a whole set of variabels to human healthy status
-with following ideas is pretty
+## Biological background 
+>RA is an autoimmune disorder affecting tens of millions of people worldwide and is associated with increased mortality owing to car- diovascular and other systemic complications. However, the etiology of RA remains elusive.Microbial triggers have been implicated in RA1; however, the identity and pathogenicity of specific microbes have remained unclear.
 
-if you cannot set a story in a certian grammer, then you definetely cannot solve the problem that way
+>Although joint inflammation is characteristic of RA, inflam- mation may develop in other body sites years before the onset of joint inflammation. The gut microbiota is an environmental factor that influences metabolic and immune homeostasis.
 
-# RA
-This dataset originally contains two types of information.
 
-A: phenotypes of volunteers from whom we collect samples which we refer to as metadata
-
-B: speices profile & distance profile which we got after processing gut metagenomic reads of those samples
+## Data description
 
 # Explicit demo for each as follows
 291profile —— species abundance profile of 291 samples (mOTU based)
