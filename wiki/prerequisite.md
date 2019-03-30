@@ -22,11 +22,9 @@ make install
 
 ## Softwares required
 * trimming and filtering fastq reads:  [AfterQC](https://github.com/OpenGene/AfterQC)
-* mapping to human genome:  [Bowtie2](https://github.com/BenLangmead/bowtie2) or [Bwa](https://sourceforge.net/projects/bio-bwa/)\
-  ***precision: bwa > bowtie2***\
-  ***speed :bwa < bowtie2*** 
-* profiling: [mOTUs2](https://github.com/motu-tool/mOTUs_v2) or [Metaphlan2](https://bitbucket.org/biobakery/metaphlan2/overview)
-* phylogenetic analysis: [Phyloshift](https://github.com/gjospin/PhyloSift)
-
+* mapping to human genome:  [BowTie2](https://github.com/BenLangmead/bowtie2) or [BWA](https://sourceforge.net/projects/bio-bwa/)\
+  ***precision: BWA > BowTie2***\
+  ***speed :BWA < BowTie2*** 
+* profiling: [mOTUs2](https://github.com/motu-tool/mOTUs_v2) or [MetaPhlAn2](https://bitbucket.org/biobakery/metaphlan2/overview)
 
 
