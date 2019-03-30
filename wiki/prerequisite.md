@@ -9,17 +9,17 @@ if dowloaded reads are of .sra, then we use [fastq-dump](https://github.com/ncbi
 **Perl/Python** /R for bioinformatics
 
 [Anaconda (python)](https://www.anaconda.com/)\
-```conda upgrade --all\
-conda install package_name\
-conda create -n env_name package_names```
+```conda upgrade --all\```
+```conda install package_name\```
+```conda create -n env_name package_names```
 
 [Perl](http://www.perl.org/get.html)\
-```tar zxvf xxx.tar.gz\
-mkdir /usr/local/perl\
-./configure --help\
-./configure -des -Dprefix=/usr/local/perl -Duesthreads -Uversiononly\
-make\
-make install```
+```tar zxvf xxx.tar.gz```\
+```mkdir /usr/local/perl```\
+```./configure --help```\
+```./configure -des -Dprefix=/usr/local/perl -Duesthreads -Uversiononly```\
+```make```\
+```make install```\
 
 ## Softwares required
 * trimming and filtering fastq reads:  [AfterQC](https://github.com/OpenGene/AfterQC)
