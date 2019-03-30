@@ -19,6 +19,7 @@ Pascal Hingamp, Renato Alves, Paul I Costea, Luis Pedro Coelho, Thomas S B Schmi
 Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork, Georg Zeller & Shinichi Sunagawa. Microbial abundance, 
 activity and population genomic profiling with mOTUs2; Nature Communications 10, Article number: 1014 (2019).
 doi: 10.1038/s41467-019-08844-4
+
 [Referring to github page](https://github.com/motu-tool/mOTUs_v2)
 
 
