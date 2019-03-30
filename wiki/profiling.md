@@ -8,10 +8,10 @@ python setup.py\
 python test.py\
 export PATH=`pwd`:$PATH\
 
-## Simplified Usage  
-**(1)** motus profile -f for_sample.fastq -r rev_sample.fastq -s no_pair.fastq -t 6 > taxonomy_profile.txt
+## Basic Usage  
+**(1)** ```motus profile -f for_sample.fastq -r rev_sample.fastq -s no_pair.fastq -t 6 > taxonomy_profile.txt```
 
-**(2)** motus merge -i taxonomy_profile_1.txt, taxonomy_profile_2.txt > all_sample_profiles.txt
+**(2)** ```motus merge -i taxonomy_profile_1.txt, taxonomy_profile_2.txt > all_sample_profiles.txt```
 
 ## Citation 
 Alessio Milanese, Daniel R Mende, Lucas Paoli, Guillem Salazar, Hans-Joachim Ruscheweyh, Miguelangel Cuenca,
@@ -28,10 +28,10 @@ doi: 10.1038/s41467-019-08844-4
 ## Installation
 [download from Bitbucket](https://bitbucket.org/biobakery/metaphlan2/get/default.zip)
 
-## Simplified Usage  
-**(1)** metaphlan2.py metagenome_1.fastq,metagenome_2.fastq --bowtie2out metagenome.bowtie2.bz2 --nproc 5 --input_type fastq > profiled_metagenome.txt
+## Basic Usage  
+**(1)** ```metaphlan2.py metagenome_1.fastq,metagenome_2.fastq --bowtie2out metagenome.bowtie2.bz2 --nproc 5 --input_type fastq > profiled_metagenome.txt```
 
-**(2)** python utils/merge_metaphlan_tables.py metaphlan_output*.txt > output/merged_abundance_table.txt 
+**(2)** ```python utils/merge_metaphlan_tables.py metaphlan_output*.txt > output/merged_abundance_table.txt ```
 
 ## Citation 
 MetaPhlAn2 for enhanced metagenomic taxonomic profiling. Duy Tin Truong, Eric A Franzosa, Timothy L Tickle, Matthias Scholz, George Weingart, Edoardo Pasolli, Adrian Tett, Curtis Huttenhower & Nicola Segata. Nature Methods 12, 902-903 (2015)
