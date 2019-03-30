@@ -12,8 +12,8 @@ To run with pypy, just replace python with pypy in the commands.
 **(1)** Prepare your fastq files in a folder, the filenames in the folder should be *R1* and *R2*,\
 Otherwise you should specify --read1_flag and --read2_flag
 
-**(2)** cd /path/to/fastq/folder   
-python path/to/AfterQC/after.py
+**(2)** ```cd /path/to/fastq/folder```
+```python path/to/AfterQC/after.py```
 
 **(3)** Gzip output\
 if the input FastQ files are gzipped, then the output will be also gzipped.\
