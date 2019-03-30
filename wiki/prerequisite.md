@@ -1,7 +1,8 @@
 ##  Reads download
-* [EBI](https://www.ebi.ac.uk/metagenomics)
-* [NCBI](https://www.ncbi.nlm.nih.gov/home/download/)
+* [EBI](https://www.ebi.ac.uk/metagenomics) 
+* [NCBI](https://www.ncbi.nlm.nih.gov/home/download/) 
 * [CNGB](https://db.cngb.org/)  
+if dowloaded reads are of .sra, then we use [fastq-dump](https://github.com/ncbi/sra-tools/wiki/HowTo:-fasterq-dump) to transform reads format to .fastq
 
 ## Environment set up
 **Linux** /Windows/Mac OS X\
