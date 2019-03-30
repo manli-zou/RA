@@ -5,11 +5,11 @@ Bowtie, an ultrafast, memory-efficient short read aligner for short DNA sequence
 [BowTie2](https://sourceforge.net/p/bowtie-bio/files/)
 
 ## Usage
-**(1)** build index for human genome: ```*bowtie2 -build genome.fasta*```  
+**(1)** build index for human genome: ```bowtie2 -build genome.fasta```  
 [human genome dowloading]
 (ftp://ftp.ensembl.org/pub/release-95/fasta/homo_sapiens/dna/)
 
-**(2)** map metagenomic reads to human reference: *bowtie2 -x <bt2-idx> xxx_1.fastq xxx_2.fastq -S xxx.sam*
+**(2)** map metagenomic reads to human reference: ```bowtie2 -x <bt2-idx> xxx_1.fastq xxx_2.fastq -S xxx.sam```
 
 ## Citation
 https://sourceforge.net/p/bowtie-bio/wiki/Home/
@@ -21,9 +21,9 @@ BWA is a program for aligning sequencing reads against a large reference genome 
 [BWA](https://sourceforge.net/projects/bio-bwa/files/)
 
 ## Basic Usage
-**(1)** build index for human genome: *bwa index genome.fasta -p genome*
+**(1)** build index for human genome: ```bwa index genome.fasta -p genome```
 
-**(2)** map metagenomic reads to human reference: *bwa mem -t 4 genome xxx_1.fastq xxx_2.fastq > xxx.mem.sam*
+**(2)** map metagenomic reads to human reference: ```bwa mem -t 4 genome xxx_1.fastq xxx_2.fastq > xxx.mem.sam```
 
 ## Citation
 
