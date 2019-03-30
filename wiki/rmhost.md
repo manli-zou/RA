@@ -5,7 +5,7 @@ Bowtie, an ultrafast, memory-efficient short read aligner for short DNA sequence
 [BowTie2](https://sourceforge.net/p/bowtie-bio/files/)
 
 ## Usage
-**(1)** build index for human genome: *bowtie2 -build genome.fasta*  
+**(1)** build index for human genome: ```*bowtie2 -build genome.fasta*```  
 [human genome dowloading]
 (ftp://ftp.ensembl.org/pub/release-95/fasta/homo_sapiens/dna/)
 
